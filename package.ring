@@ -31,7 +31,6 @@ aPackageInfo = [
 	],
 	:ringfolderfiles = 	[
 		"applications/findinfiles/findinfiles.rform",
-		"applications/findinfiles/findinfilescontroller.pwct",
 		"applications/findinfiles/findinfilesController.ring",
 		"applications/findinfiles/findinfilesView.ring",
 		"applications/findinfiles/images/closeicon.jpg",
